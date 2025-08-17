@@ -2,6 +2,8 @@
 
 A lightweight AI-powered sidekick that integrates multiple tools, reasoning abilities, and graph-based workflows using LangGraph to assist with research, planning, and automation.
 
+**Live demo:** https://huggingface.co/spaces/Anindhya/AIAssistant_LangGraph
+
 ---
 
 ## Overview
