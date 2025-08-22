@@ -1,2 +1,14 @@
 gradio
 openapi
+typing_extensions
+langgraph
+dotenv
+python-dotenv
+langchain-openai
+langchain-core
+pydantic
+requests
+playwright
+langchain-community
+langchain
+langchain-experimental
