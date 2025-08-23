@@ -1,3 +1,9 @@
+---
+title: personalAssistant-LangGraph
+app_file: app.py
+sdk: gradio
+sdk_version: 5.42.0
+---
 # Sidekick.ai
 
 A lightweight AI-powered sidekick that integrates multiple tools (including **Playwright**), structured reasoning, and graph-based workflows using **LangGraph** to assist with research, planning, and automation.

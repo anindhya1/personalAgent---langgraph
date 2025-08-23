@@ -1,14 +1,26 @@
+# Core framework
 gradio
-openapi
-typing_extensions
-langgraph
-dotenv
-python-dotenv
+langchain
+langchain-community
 langchain-openai
-langchain-core
+langchain-experimental
+openai
+langgraph
+
+# Tools & utilities
+wikipedia
+playwright
 pydantic
 requests
-playwright
-langchain-community
-langchain
-langchain-experimental
+python-dotenv
+
+# Extra tools (from sidekick_tools.py)
+google-search-results   # if you ever switch to SerpAPI instead of Serper
+serpapi                 # optional, safe to include
+
+# File handling
+python-docx
+PyPDF2
+
+# Environment loading
+python-dotenv
